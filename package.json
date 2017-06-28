@@ -1,0 +1,22 @@
+{
+  "name": "simple-express-web",
+  "version": "1.0.0",
+  "description": "Un simple serveur web delivrant une unique page web",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpicKiwi/simple-express-web.git"
+  },
+  "author": "EpicKiwi <me@epickiwi.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EpicKiwi/simple-express-web/issues"
+  },
+  "homepage": "https://github.com/EpicKiwi/simple-express-web#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
